@@ -1,0 +1,52 @@
+.mainColumn{
+    padding: 0 1%;
+    padding-top: 2%;
+    background-image: url(../images/koyamatakeshi.jpg);
+    background-repeat: repeat;
+}
+
+.title{
+    text-align: center;
+    font-size: 32px;
+}
+
+.mainColumnTop {
+    display: flex;
+}
+  
+.profile {
+  margin-bottom: 40px;
+  margin-left: 20px;
+}
+.english {
+  width: 300px;
+  margin-bottom: 20px;
+}
+.mail {
+  margin-bottom: 20px;
+}
+
+.right {
+  width: 860px;
+}
+.subtitle {
+  text-align: center;
+}
+.topInfo {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.topInfoItem {
+  margin-top: 5px;
+  margin-bottom: 4px;
+  border-top: 0.5px solid #000000;
+  font-weight: bold;
+  padding: 1rem 0;
+}
+.topInfoItemBody {
+  margin-bottom: 30px;
+  margin-left: 80px;
+}
+
+
+

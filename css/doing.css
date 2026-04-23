@@ -1,0 +1,20 @@
+.mainColumnDoing{
+    padding: 0 20%;
+    background-image: url(../images/doing.jpg);
+    background-size: 20%;
+    background-repeat: repeat;
+}
+
+.DoingTitle{
+    text-align: center;
+    padding-top: 5%;
+}
+
+.DoingBody{
+    font-weight: bold;
+    margin-top: 5%;
+}
+
+.DoingValue{
+    padding-top: 2%;
+}

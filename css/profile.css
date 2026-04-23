@@ -1,0 +1,33 @@
+.mainColumn{
+    background-image: url(../images/profile.jpg);
+    background-repeat: repeat;
+}
+
+.mainColumnProfile{
+    display: flex;
+}
+
+.profileTitle{
+    text-align: center;
+    padding-top: 2%;
+}
+
+.profileBody{
+    width: 50rem;
+    padding-top: 3%;
+    padding-left: 30%;
+}
+
+.profileBodyItem{
+    display: flex;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.profileBodyItemLabel{
+    width: 20%;
+}
+
+.profileBodyItemValue{
+    width: 80%;
+}

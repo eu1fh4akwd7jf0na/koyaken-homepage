@@ -1,0 +1,22 @@
+.mainColumnskill{
+    padding: 0 20%;
+    background-image: url(../images/skill.jpg);
+    background-size: 20%;
+    background-repeat: repeat;
+}
+
+.title{
+    text-align: center;
+    padding-top: 5%;
+}
+
+.skillBody{
+    font-weight: bold;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+
+.skillTitle{
+    padding-bottom: 1%;
+}
